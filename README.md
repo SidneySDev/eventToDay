@@ -2,7 +2,7 @@
 
 <br>Gerenciador de pacote utilizado: npm
 <br>Adicionado funcao de data do dia atual
-<br>adicionado Regex para controle de insercao de dados
+<br>adicionado Regex para controle de inserção de dados
 
 
 <img class="event-image" width="327" alt="image" src="https://github.com/SidneySDev/eventToDay/assets/72263280/190c0c75-8ee0-4f18-bc4f-9f41453e7fa9">
